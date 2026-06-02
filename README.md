@@ -1,4 +1,4 @@
-# Laravel AI
+# Cortex: Laravel AI Framework
 
 A unified AI interface for Laravel — LLMs, embeddings, vector databases, RAG pipelines, agents, and more.
 
